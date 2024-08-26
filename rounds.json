@@ -1,0 +1,28 @@
+[
+    {
+        "guid": "0d785276-005a-4b8f-b50d-18c31642cfc6",
+        "date": "18-07-2024",
+        "course": "Boston Golf Course",
+        "gross_score": 99,
+        "score_to_par": 27,
+        "total_fairways": 9,
+        "gir": 4,
+        "agir": 12,
+        "total_putts": 41,
+        "total_sand_shots": 0,
+        "total_penalties": 2
+    },
+    {
+        "guid": "42c8b73d-733e-4523-aae9-a34602faa8d8",
+        "date": "26-08-2024",
+        "course": "Boston Golf Course",
+        "gross_score": 110,
+        "score_to_par": 38,
+        "total_fairways": 2,
+        "gir": 4,
+        "agir": 10,
+        "total_putts": 42,
+        "total_sand_shots": 1,
+        "total_penalties": 4
+    }
+]
